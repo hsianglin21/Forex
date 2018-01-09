@@ -1,0 +1,1 @@
+forfiles /M *.html /C "cmd /c start chrome @file"
